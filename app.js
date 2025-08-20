@@ -57,7 +57,7 @@ function sortearAmigo(){
         resultadoTexto = amigos[numero];
         asignarTextoElementoMas('resultado','El amigo sorteado es: '+resultadoTexto); //Amigo sorteado
 
-        amigos = []; //Reinicio
+        amigos = []; //Hago esto para poder reiniciar el juego. No lo pide explicitamente en la tarea pero considero que queda mejor de esta manera. Se puede cambiar
     }
 }
 
