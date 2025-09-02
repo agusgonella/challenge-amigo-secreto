@@ -51,7 +51,8 @@ function sortearAmigo(){
         resultadoTexto = amigos[numero];
         asignarTextoElementoMas('resultado','El amigo sorteado es: '+resultadoTexto); //Amigo sorteado
         
-        amigos = []; //Reinicio. No se especifica si deberia hacerse asi pero considero que queda mejor de esta manera. Se puede sacar.
+        amigos = []; //Reinicio. 
+        //No se especifica si deberia hacerse asi pero considero que queda mejor de esta manera. Se puede sacar.
     }
 }
 function limpiarCaja(){
