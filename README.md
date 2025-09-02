@@ -30,13 +30,7 @@ Este desafío tiene como propósito **fortalecer el razonamiento lógico y la ba
 
 ## 🖼️ Vista previa
 
-![Amigo Secreto](./assets/amigo-secreto.png)  
-
-## ⚙️ Instalación y uso
-
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/agusgonella/challenge-amigo-secreto.git
+![Amigo Secreto](./assets/vistaPrevia.png)  
 
 ## Ejemplo de uso
 
