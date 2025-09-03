@@ -1,34 +1,33 @@
 # Challenge: Amigo Secreto
+## Este proyecto forma parte del programa de formación Oracle Next Education (ONE) en colaboración con Alura Latam.
 
 Aplicación interactiva para realizar sorteos de **Amigo Secreto**, desarrollada como parte de un desafío de lógica de programación de Alura Latam.
-Este proyecto me permitió poner en práctica conceptos fundamentales como **variables, condicionales, funciones, listas (arrays)** y **bucles**, que son la base de cualquier lenguaje de programación.  
+Este proyecto me permitió poner en práctica conceptos fundamentales como **variables, condicionales, funciones, listas (arrays)** y **bucles**.
 
 ## 🚀 Funcionalidades
 
-✅ Agregar nombres de participantes a una lista.  
+✅ Agregar nombres de amigos a una lista.  
 ✅ Validar que el nombre no esté vacío antes de añadirlo.  
 ✅ Realizar el sorteo aleatorio de un amigo secreto.  
-✅ Mostrar el resultado en pantalla de manera clara y sencilla.  
+✅ Mostrar el resultado en pantalla. 
 
 ## 🧑‍💻 Tecnologías utilizadas
 
-- **HTML5** → Estructura de la aplicación.  
-- **CSS3** → Estilos y diseño visual (ya provistos en el desafío).  
-- **JavaScript (ES6+)** → Lógica del programa: funciones, arrays, condicionales y bucles.  
+- **HTML** → Estructura de la aplicación.  
+- **CSS** → Estilos y diseño visual.  
+- **JavaScript** → Lógica del programa. 
 
-## 📚 Objetivo de aprendizaje
+## 📚 Objetivos
 
 Este desafío tiene como propósito **fortalecer el razonamiento lógico y la base de la programación**, enfocándose en:
 
-- **Variables** → Para almacenar y manipular datos dinámicos.  
+- **Variables** → Para almacenar y manipular datos.  
 - **Condicionales** (`if/else`) → Para controlar el flujo de ejecución.  
-- **Funciones** → Para modularizar el código y reutilizar lógica.  
+- **Funciones** → Para modularizar y reutilizar código.
 - **Listas (arrays)** → Para manejar múltiples elementos.  
 - **Bucles** (`for`, `while`) → Para iterar de manera eficiente sobre los elementos.  
 
-- 👉 Estos fundamentos son comunes a todos los lenguajes de programación, por lo que dominarlos facilita aprender cualquier tecnología o plataforma.  
-
-## 🖼️ Vista previa
+## 🖼️ Vista previa del Proyecto
 
 ![Amigo Secreto](./assets/vistaPrevia.png)  
 
@@ -39,6 +38,4 @@ Este desafío tiene como propósito **fortalecer el razonamiento lógico y la ba
 3. La aplicación mostrará un nombre al azar como tu amigo secreto. 🎁
 
 ## Autor
-- 👩‍💻 Desarrollado por Agustina Gonella
-
-## Este proyecto forma parte del programa de formación Oracle Next Education (ONE) en colaboración con Alura Latam.
+- 👩‍💻 Desarrollado por Agustina Gonella.
