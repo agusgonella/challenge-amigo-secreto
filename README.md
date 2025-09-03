@@ -1,4 +1,4 @@
-# 🎁 Challenge: Amigo Secreto
+# Challenge: Amigo Secreto
 
 Aplicación interactiva para realizar sorteos de **Amigo Secreto**, desarrollada como parte de un desafío de lógica de programación de Alura Latam.
 Este proyecto me permitió poner en práctica conceptos fundamentales como **variables, condicionales, funciones, listas (arrays)** y **bucles**, que son la base de cualquier lenguaje de programación.  
@@ -34,9 +34,9 @@ Este desafío tiene como propósito **fortalecer el razonamiento lógico y la ba
 
 ## Ejemplo de uso
 
-- 1) Escribe  el nombre de tus amigos en el campo de texto y presiona "Adicionar".
-- 2) Una vez que hayas agregado todos los participantes, haz click en "Sortear amigo".
-- 3) La aplicación mostrará un nombre al azar como tu amigo secreto. 🎁
+1. Escribe  el nombre de tus amigos en el campo de texto y presiona "Adicionar".
+2. Una vez que hayas agregado todos los participantes, haz click en "Sortear amigo".
+3. La aplicación mostrará un nombre al azar como tu amigo secreto. 🎁
 
 ## Autor
 - 👩‍💻 Desarrollado por Agustina Gonella
